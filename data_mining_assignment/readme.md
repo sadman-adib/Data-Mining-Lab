@@ -48,4 +48,3 @@ Each notebook focuses on a specific algorithm or analysis process, including:
 | **Evaluation Metrics** | Confusion Matrix, Precision, Recall, F1-Score, Accuracy |
 
 ---
-   cd data-mining-assignment
