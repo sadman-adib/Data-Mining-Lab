@@ -48,10 +48,4 @@ Each notebook focuses on a specific algorithm or analysis process, including:
 | **Evaluation Metrics** | Confusion Matrix, Precision, Recall, F1-Score, Accuracy |
 
 ---
-
-## How to Run
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/sadman-adib/Data-Mining-Lab/tree/main/data_mining_assignment
    cd data-mining-assignment
