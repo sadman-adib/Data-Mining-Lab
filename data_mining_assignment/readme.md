@@ -27,7 +27,7 @@ data_mining_assignment/
 ├── noise_outlier.ipynb              # Noise and outlier detection
 └── polynomial_regression.ipynb      # Polynomial Regression model
 ```
-## 🧩 Overview
+## Overview
 
 This assignment demonstrates practical applications of **data mining techniques** through hands-on experiments.  
 Each notebook focuses on a specific algorithm or analysis process, including:
