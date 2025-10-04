@@ -53,5 +53,5 @@ Each notebook focuses on a specific algorithm or analysis process, including:
 
 1. Clone this repository:  
    ```bash
-   git clone
+   git clone https://github.com/sadman-adib/Data-Mining-Lab/tree/main/data_mining_assignment
    cd data-mining-assignment
