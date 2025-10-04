@@ -6,27 +6,27 @@ The project covers various supervised and unsupervised machine learning algorith
 ---
 
 ## Folder Structure
-
+```
 data_mining_assignment/
 │
-├── datasets/ # Folder containing datasets used for experiments
-│ ├── dataset_file_1.csv
-│ ├── dataset_file_2.csv
-│ └── ...
+├── datasets/                        # Folder containing datasets used for experiments
+│   ├── dataset_file_1.csv
+│   ├── dataset_file_2.csv
+│   └── ...                          # Additional dataset files
 │
-├── aporiri_algorithm.ipynb # Implementation of Aporiri Algorithm
-├── confusion_matrix.ipynb # Visualization of confusion matrices for model evaluation
-├── decision_tree.ipynb # Decision Tree classification implementation
-├── error_detection_fixing.ipynb # Data preprocessing and error correction script
-├── kmeans.ipynb # K-Means clustering
-├── knn_classifier.ipynb # K-Nearest Neighbors classification
-├── linear_regression.ipynb # Simple Linear Regression
-├── logistic_regression.ipynb # Logistic Regression for binary classification
+├── aporiri_algorithm.ipynb          # Implementation of Aporiri Algorithm
+├── confusion_matrix.ipynb           # Visualization of confusion matrices for model evaluation
+├── decision_tree.ipynb              # Decision Tree classification implementation
+├── error_detection_fixing.ipynb     # Data preprocessing and error correction script
+├── kmeans.ipynb                     # K-Means clustering
+├── knn_classifier.ipynb             # K-Nearest Neighbors classification
+├── linear_regression.ipynb          # Simple Linear Regression
+├── logistic_regression.ipynb        # Logistic Regression for binary classification
 ├── multiple_linear_regression.ipynb # Multiple Linear Regression model
-├── naive_bayes.ipynb # Naïve Bayes classifier
-├── noise_outlier.ipynb # Noise and outlier detection
-└── polynomial_regression.ipynb # Polynomial Regression model
-
+├── naive_bayes.ipynb                # Naïve Bayes classifier
+├── noise_outlier.ipynb              # Noise and outlier detection
+└── polynomial_regression.ipynb      # Polynomial Regression model
+```
 ## 🧩 Overview
 
 This assignment demonstrates practical applications of **data mining techniques** through hands-on experiments.  
